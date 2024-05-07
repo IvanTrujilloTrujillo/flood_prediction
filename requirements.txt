@@ -1,0 +1,6 @@
+# Python 3.12 al least is required (not working with Python 3.9 and not tested with other versions)
+tensorflow==2.16.1
+pandas==2.2.1
+matplotlib==3.8.4
+opencv-python==4.9.0.80
+scikit-learn==1.4.2
