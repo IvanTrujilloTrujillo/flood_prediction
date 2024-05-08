@@ -8,3 +8,5 @@ xgboost==2.0.3
 catboost==1.2.5
 lightgbm==4.3.0
 optuna==3.6.1
+optuna-integration==3.6.0
+nbformat==4.2.0
